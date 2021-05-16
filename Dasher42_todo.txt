@@ -1,0 +1,59 @@
+TO DO:  Favor The Bold
+
+* Framework for attaching special technologies to ships - no hard-coded species numbers!
+  X Finish and test TriggerDefs
+  X Make special torpedo and pulse yields
+  X Make special shield and hull
+  X Ablative armor and other similar technologies
+  - Adapt Apollo's ATP GUI controls, as they refine Sleight's work
+  X MIRVing torpedoes
+  X Time-cycling plugins for things like torpedoes that lose power
+  - Tractor effects
+  - Make tractors have more capability?  Block them with shields?
+  - Shield modulations
+
+- Merge Defiant, SimRex, and Leo's work on Sleight's FTB scripts.  
+- Absorb the Engineering extension
+- Fix the Ablative Armour; Leo's work enables the bar graph but the tech seems to have broken
+- Create the Foundation GUI
+- Fix the race/ship name display in multiplayer
+* Enable FTB and mutators in single player
+
+* Set up Sneaker's inaccurate phasers to work with the AI
+  * Tune the phaser accuracy
+
+- Merge with Apollo's Dimensions with a common ship instance and mission objective API.
+- Make the target at will button use Sleight's secondary targetting
+X Make autolayout of damage and weapon icons
+- Consider new ways to do selection of crew members and uniform
+- Dialogue options - multiple choice questions and responses
+- Friendly/hostile/obsequious communication postures
+- Intelligent alien personalities.  They can vary between friendly, neutral, or hostile
+  considering things like overall relations, the status of your ship's weapons and shields, and
+  dialogue choices.
+- Crew options on tactical and other views:  away team deployment (science/engineering/security)
+* Random system generator
+- Plug-in mission elements
+- Weapons must start at 0 charge when going into red alert.  When disarmed, some of their energy
+  should go back into the main battery.
+
+
+TO DO:  Foundation
+
+X Make Mutators list scrollable
+X Fix bridge plugins
+X Plugin architecture for music replacements
+X Explosion effect plugin (Nano's got this)
+
+
+
+CANCELLED:
+
+- CANCELLED:  Astrogation screen, preferably 3D
+  This is now Apollo's field.
+* Seamless 3D universe, allowing real-time warp speed and intercepts
+  This has proven unworkable due to camera stutter which is pronounced at warp speeds.
+  Seamless solar systems would be very workable, however, and QBR and Apollo's Dimensions
+  pave the way for going between systems.  I like Nano's warp, however.  Having some time
+  before arrival to adjust ship systems is a big boost.
+
