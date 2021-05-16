@@ -35,7 +35,7 @@ because of ambition exceeding available time from volunteers.
 
 It is here for reference and amusement.
 
-=== LICENSING
+LICENSING
 
 All scripts and assets derived from Bridge Commander's SDK release fall
 under Activision's copyright and license.  All scripts by Dasher42, or based
